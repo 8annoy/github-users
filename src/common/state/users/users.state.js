@@ -1,0 +1,3 @@
+const initialUsersState = {
+  usersList: []
+}
